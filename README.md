@@ -1,16 +1,8 @@
-# cozy
+# cozy_app
 
-A new Flutter project.
+A practice app to slice design from Figma, consume API and use provider state management.
 
-## Getting Started
+![BWA COZY](https://buildwithangga.com/storage/assets/portfolio/IDRJHQ5c9pYtMDMhvO8o3IJfteLpwABnd7M8Wkpz.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# TO DOWNLOAD APK, USE THIS LINK
+https://github.com/tridinantio/course_app/blob/main/build/app/outputs/flutter-apk/app-release.apk
